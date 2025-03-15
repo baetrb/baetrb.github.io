@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baetrb.csgad.com/lUM/sitemap.xml.gz
